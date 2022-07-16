@@ -76,7 +76,7 @@ global.nomorbot = '6282322133457'
 global.nomorown = '6281333154367'
 global.nomorbf = '6281333154367'
 global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
-global.nameown = 'Oᴡɴᴇʀ Meilana×፝֟͜×'
+global.nameown = '𝚉𝚊𝚕𝚕'
 global.namebf = 'Oᴡɴᴇʀ ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 
 /*============== WATERMARK ==============*/
@@ -110,13 +110,13 @@ global.thumbnailUrl = [
 ]
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/xrnaaazy_'
-global.sig2 = 'https://instagram.com/kokopangeran_'
-global.sgh = 'https://github.com/Meii02'
-global.sgh2 = 'https://github.com/MendingTuru'
+global.sig = 'https://instagram.com/zallzall02_'
+global.sig2 = 'https://instagram.com/zallzall02_'
+global.sgh = 'https://github.com/rizalmhmd'
+global.sgh2 = 'https://github.com/rizalzall'
 global.sgc = 'https://chat.whatsapp.com/Lfa0zyH7ko23xkT2C7OKgJ'
-global.sdc = 'https://github.com/MendingTuru'
-global.snh = 'https://github.com/MendingTuru'
+global.sdc = 'https://github.com/rizalmhmd'
+global.snh = 'https://github.com/rizalmhmd'
 
 
 /*============== HENTAI ==============*/ 
@@ -379,28 +379,28 @@ global.author = "xrnaaazy_×፝֟͜× X ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜�
 global.multiplier = 69 // The higher, The harder levelup
 
 /*============== ERR ==============*/
-global.eror = 'Erorr Sayang...'
-global.wait = 'Wait Sayang...'
+global.eror = 'Erorr...'
+global.wait = 'Wait...'
 global.render = 'Render...'
-global.webs = 'https://instagram.com/kokopangeran_/' //Your Website
+global.webs = 'https://instagram.com/zallzall02' //Your Website
 global.logo = "https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg" //Your logo
 global.gcwangsaf = "https://chat.whatsapp.com/Lfa0zyH7ko23xkT2C7OKgJ" //Link Group whatsapp
 
 /*============== PAYMENT ==============*/
-global.saweria = "https://saweria.co/kokopangeran"// website saweria.co
-global.dana = ["087832147584"]
-global.pulsa = ["087832147584"] //pulsa here
-global.trakteer = "https://trakteer.id/kokopangeran"//Link url https://
-global.paypal = "pangeran.dwnta01@gmail.com" //paypal email
-global.gopay = "087832147584"//Numver for Payment digital Gopay Gojek
+global.saweria = "-"// website saweria.co
+global.dana = ["082322133457"]
+global.pulsa = ["081333154367"] //pulsa here
+global.trakteer = "-"//Link url https://
+global.paypal = "-" //paypal email
+global.gopay = "082322133457"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '087832147584'
-global.povo = '087832147584'
-global.pgopay = '087832147584'
-global.ppulsa = '087832147584'
-global.ppulsa2 = '087832147584'
-global.psaweria = 'https://saweria.com/kokopangeran'
+global.pdana = '082322133457'
+global.povo = '082322133457'
+global.pgopay = '082322133457'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '081333154367'
+global.psaweria = '-'
 
 //Rpg
 global.rpg = {
