@@ -6,19 +6,19 @@ import moment from 'moment-timezone'
 
 /**Oᴡɴᴇʀ number**/
 global.owner = [
-  ['6283844508188'],
-  ['6283844508188'],
-  ['6283844508188'],
-  ['6283844508188', 'Meilana×፝֟͜×', true]
+  ['6281333154367'],
+  ['6281333154367'],
+  ['6281333154367'],
+  ['6281333154367', '𝚉𝚊𝚕𝚕×፝֟͜×', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['79811950242'] // Want some help?
-global.prems = ['79811950242']
+global.mods = ['6281333154367'] // Want some help?
+global.prems = ['6281333154367']
 global.boyfren = [
-  ['79811950242'],
-  ['79811950242'],
-  ['79811950242'],
-  ['79811950242', 'ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×', true]
+  ['6281333154367'],
+  ['6281333154367'],
+  ['6281333154367'],
+  ['6281333154367', '𝚉𝚊𝚕𝚕', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Your gf/pacar
 
@@ -72,10 +72,10 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '97698911812'
-global.nomorown = '6283844508188'
-global.nomorbf = '79811950242'
-global.namebot = 'Meii-MD×፝֟͜×'
+global.nomorbot = '6282322133457'
+global.nomorown = '6281333154367'
+global.nomorbf = '6281333154367'
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
 global.nameown = 'Oᴡɴᴇʀ Meilana×፝֟͜×'
 global.namebf = 'Oᴡɴᴇʀ ᵈʳᴋᴏᴋᴏ ᴘᴀ፝֟፝֟ɴɢᴇʀᴀɴ×፝֟͜×'
 
