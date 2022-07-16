@@ -63,7 +63,7 @@ link: ${v.link}`.trim()
     if (command == 'dlbokep') {
     if (!text) throw `Contoh penggunaan ${usedPrefix}${command} https://www.xnxx.com/video-uy5a73b/mom_is_horny_-_brooklyn`
     try {
-  let json = await fetch(`https://api.lolhuman.xyz/api/xnxx?apikey=ee99d6df5f8c5eaf7667a90d&url=${text}`)
+  let json = await fetch(`https://api.lolhuman.xyz/api/xnxx?apikey=9b817532fadff8fc7cb86862&url=${text}`)
   let x = await json.json()
   let caption = `*Title:* ${x.result.title}
   *duration:* ${x.result.duration}
