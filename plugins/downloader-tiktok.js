@@ -24,7 +24,7 @@ _©${global.wm}_`
 }
 
 if (command == 'tiktokwm') {
-let linkwm = `https://api.lolhuman.xyz/api/tiktokwm?apikey=9b817532fadff8fc7cb86862&url=${args[0]}`
+let linkwm = `https://api.lolhuman.xyz/api/tiktokwm?apikey=azzbot&url=${args[0]}`
 if (!linkwm) throw 'Can\'t download video!'
 let caption2 = `*TIKTOK WITH WM*
 _©${global.wm}_`
@@ -53,7 +53,7 @@ _©${global.wm}_`
 }
 
 if (command == 'tiktoknowm') {
-let link = await fetch(`https://api.lolhuman.xyz/api/tiktok?apikey=9b817532fadff8fc7cb86862&url=${args[0]}`)
+let link = await fetch(`https://api.lolhuman.xyz/api/tiktok?apikey=azzbot&url=${args[0]}`)
 let has = await link.json()
 let x = has.result
 if (!x.link) throw 'Can\'t download video!'
